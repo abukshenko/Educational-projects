@@ -39,8 +39,8 @@
   - [Pandas](https://pandas.pydata.org/) — для анализа данных  
 
 ## 📚 Документация
-- [📄 Полное руководство (PDF)](https://github.com/abukshenko/abukshenko.github.io/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5%20%D0%91%D1%83%D0%BA%D1%88%D0%B5%D0%BD%D0%BA%D0%BE.%D0%90.pdf)
-- [🎤 Презентация проекта (PDF)](e-commerce sales analysis/Презентация к работе Букшенко.A.pdf)
+- [📄 Полное руководство (PDF)](https://github.com/abukshenko/abukshenko.github.io/blob/95358c0fc731cce548495a0480cef7e35953c6f7/e-commerce%20sales%20analysis/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5%20%D0%91%D1%83%D0%BA%D1%88%D0%B5%D0%BD%D0%BA%D0%BE.%D0%90.pdf)
+- [🎤 Презентация проекта (PDF)](https://github.com/abukshenko/abukshenko.github.io/blob/d80c9bc008e1206f75b56a2fd0af39785c9f1a32/e-commerce%20sales%20analysis/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5%20%D0%91%D1%83%D0%BA%D1%88%D0%B5%D0%BD%D0%BA%D0%BE.A.pdf)
 
 ## 💻 Код проекта
 - [main.py](https://github.com/abukshenko/abukshenko.github.io/blob/8c85d64d2948d489cd38937b9d9767f98d90d825/e-commerce%20sales%20analysis/Final_Work_Bukshenko_A_DA_114.ipynb)
