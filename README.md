@@ -33,6 +33,9 @@ __«Анализ продаж e-commerce магазина (поиск инсай
 💻 __Код проекта__
 - [main.py](https://github.com/abukshenko/abukshenko.github.io/blob/8c85d64d2948d489cd38937b9d9767f98d90d825/e-commerce%20sales%20analysis/Final_Work_Bukshenko_A_DA_114.ipynb)
 
+
+
+
 __Анализ авиаперелетов__
 
 Цели проекта:
@@ -64,6 +67,8 @@ __Анализ авиаперелетов__
 
 💻 __Код проекта__
 - [main.py](https://github.com/abukshenko/Educational-projects/blob/9e656c38b86e45b159f0f52d9f3edcc78742f571/analysis%20of%20air%20travel/analysis%20of%20air%20travel.pdf)
+
+
 
 ## 👨‍💻 Автор
 **Имя:** [Артур Букшенко](https://github.com/abukshenko)  
